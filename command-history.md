@@ -9,6 +9,10 @@ During the Software Carpentry workshops (especially the Bash and Git tutorials),
 ### Command History to the rescue
 To provide a solution, we propose the **command history** window. Once setup, this window is able to show the last issued commands on the terminal in real time. The benefit is that the instructor no longer needs to worry about scrolling up and down to find and show the commands. Although there are multiple ways to achieve this functionality, our goal is to make the changes minimalistic and portable to both Windows and Unix environments.
 
+### Tested on
+
+- Windows 10 with Git Bash (success!)
+
 # Setup
 We are going to have two terminal windows:
 1. **Main terminal**: used by the instructor to issue commands and shows the output.
